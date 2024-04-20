@@ -1,0 +1,25 @@
+h1 {
+    font-size: 40px;
+    color: green;
+}
+h2 {
+    font-size: 30px;
+    color: lightseagreen;
+}
+p {
+    font-size:15px;
+    color: blueviolet;
+}
+
+.username {
+    font-size:15px;
+    color: darkred;
+    width:100px;
+    height:20px;
+}
+.comment {
+    font-size:15px;
+    color: darkblue;
+    width:400px;
+    height:40px;
+}
